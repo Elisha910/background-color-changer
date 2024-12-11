@@ -1,0 +1,28 @@
+header>div{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+}
+#black{
+     background-color: black;
+     border: 2px solid white;
+}
+#red{
+    background-color: red;
+    border: 2px solid white;
+}
+#green{
+    background-color: green;
+    border: 2px solid white;
+}
+#blue{
+    background-color: blue;
+    border: 2px solid white;
+}
+header{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: end;
+    gap: 7px;
+}
